@@ -52,7 +52,7 @@ Open Data Network: http://www.opendatanetwork.com
 
 R Datasets: http://www.stats4stem.org/data-sets.html
 
-R Datasets packages: R Dataset packages
+R Datasets packages: (R Dataset packages)[https://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html]
 
 Datasets: http://www.statsci.org/datasets.html
 
