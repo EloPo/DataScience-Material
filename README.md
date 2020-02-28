@@ -90,3 +90,4 @@ Healthcare: https://www.aiin.healthcare
 
 Data.world: https://data.world
 
+Seeing Theory: https://seeing-theory.brown.edu/
