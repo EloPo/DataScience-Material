@@ -65,3 +65,28 @@ Reconhecimento de Faces: http://www.face-rec.org/databases
 Stanford Large Network Dataset Collection: http://snap.stanford.edu/data
 
 Datahub: http://datahub.io/dataset
+
+Estatísticas do OpenIntro: https://www.openintro.org/book/os/
+
+Towards Data Science: https://towardsdatascience.com
+
+Real Python Tutorials: https://realpython.com
+
+Analytics Vidhya: https://www.analyticsvidhya.com/blog/
+
+QuantumBlack: https://medium.com/@QuantumBlack
+
+Descartes Labs: https://medium.com/@DescartesLabs
+
+Comtrade Labs: https://comtrade.un.org
+
+Inside Airbnb: http://insideairbnb.com/get-the-data.html
+
+Pluralsight: https://www.pluralsight.com/partners/microsoft/azure
+
+Data-miner: https://data-miner.io
+
+Healthcare: https://www.aiin.healthcare
+
+Data.world: https://data.world
+
